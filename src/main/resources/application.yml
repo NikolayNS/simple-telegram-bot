@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: simple-telegram-bot
+
+telegram:
+  bot:
+    path: https://ee19-95-70-225-115.eu.ngrok.io
+    username: simple_webhook_telegram_bot
+    token: change_it
